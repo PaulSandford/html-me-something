@@ -36,5 +36,10 @@ footer {
     
 }
 .out {
-    padding:10px;
+    margin:10px;
+    padding:20px;
+    position:relative;
+    border: 3px solid green;
+    overflow:auto;
+    float:left;
 }
